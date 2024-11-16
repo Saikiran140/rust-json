@@ -1,0 +1,47 @@
+{
+  "name": "John Doe",
+  "age": 22,
+  "isActive": true,
+  "email": "johndoe@example.com",
+  "address": {
+    "street": "123 Elm St",
+    "city": "Springfield",
+    "state": "IL",
+    "postalCode": 62704
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "555-1234"
+    },
+    {
+      "type": "work",
+      "number": "555-5678"
+    }
+  ],
+  "favoriteNumbers": [
+    7,
+    13,
+    42
+  ],
+  "isVerified": false,
+  "profilePicture": null,
+  "socialMedia": {
+    "twitter": "@johndoe",
+    "linkedin": "linkedin.com/in/johndoe"
+  },
+  "hobbies": [
+    "reading",
+    "cycling",
+    {
+      "indoor": [
+        "chess",
+        "video games"
+      ],
+      "outdoor": [
+        "soccer",
+        "hiking"
+      ]
+    }
+  ]
+}
